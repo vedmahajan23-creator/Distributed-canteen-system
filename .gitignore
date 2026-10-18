@@ -1,0 +1,14 @@
+# runtime data - each node recreates its DB on start
+canteen_node_*.db
+
+# python
+__pycache__/
+*.pyc
+
+# local logs
+*.log
+*.err
+
+# FA-2 runtime data
+dfs_data_n*/
+namenode_meta.json

@@ -1,0 +1,88 @@
+{
+ "receipts/N3-1.txt": {
+  "size": 277,
+  "created": "2026-10-19 00:30:24",
+  "replication": 1,
+  "chunks": [
+   {
+    "index": 0,
+    "id": "2f2322393b9a",
+    "size": 256,
+    "sha256": "00ecc59dea6920e61e82a57048e48e63e553f865f4df35609439994ba0760fd6",
+    "replicas": [
+     "N3"
+    ]
+   },
+   {
+    "index": 1,
+    "id": "8443669d7f3b",
+    "size": 21,
+    "sha256": "aaf63b9563517b3d3b569550a6f8e1aacebad14e6c692f42cffd97911e9acb38",
+    "replicas": [
+     "N3"
+    ]
+   }
+  ]
+ },
+ "receipts/N1-1.txt": {
+  "size": 224,
+  "created": "2026-10-19 00:47:45",
+  "replication": 2,
+  "chunks": [
+   {
+    "index": 0,
+    "id": "81cb51069705",
+    "size": 224,
+    "sha256": "09cd8c7432bb87e6499be22bba6733c271969c7e9181c006afddf47a26ff0eec",
+    "replicas": [
+     "N1",
+     "N2"
+    ]
+   }
+  ]
+ },
+ "receipts/N1-2.txt": {
+  "size": 232,
+  "created": "2026-10-19 01:03:21",
+  "replication": 2,
+  "chunks": [
+   {
+    "index": 0,
+    "id": "9323c5f9949a",
+    "size": 232,
+    "sha256": "db5316e9ae0cb38a52dd69a60134a8959f4914a0239dba50d71fea11ab46e52d",
+    "replicas": [
+     "N1",
+     "N2"
+    ]
+   }
+  ]
+ },
+ "receipts/N1-3.txt": {
+  "size": 295,
+  "created": "2026-10-19 01:07:36",
+  "replication": 2,
+  "chunks": [
+   {
+    "index": 0,
+    "id": "a7b30159500c",
+    "size": 256,
+    "sha256": "1660055915e6678c19c5a59bebb6e0144ec778758cd6d3ca01fb079f852cd237",
+    "replicas": [
+     "N1",
+     "N2"
+    ]
+   },
+   {
+    "index": 1,
+    "id": "a8a47e03ad4f",
+    "size": 39,
+    "sha256": "8c03c2a3f61ed011108b4b5963787c0172931b25640ee0b291304553577d7f7a",
+    "replicas": [
+     "N3",
+     "N1"
+    ]
+   }
+  ]
+ }
+}
